@@ -5,3 +5,6 @@
 preadwrite.egg-info
 .coverage
 .idea
+build
+dist
+

@@ -1,0 +1,7 @@
+*.pyc
+.eggs
+.pytest_cache
+.tox
+preadwrite.egg-info
+.coverage
+.idea
